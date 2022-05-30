@@ -28,3 +28,16 @@ When describing your issue, the folling should be taken into consideration:
 ## Who
 
 This repo was created for members of the [Greysoft TECH Team](https://github.com/Greysoft-Team) but members of the public are also invited to share thier issues, solutions and experience.
+
+### Security
+
+If you discover any security related issues, please email [issues@greysoft.ng](mailto:issues@greysoft.ng) instead of using the issue tracker.
+
+## Credits
+
+- [Marx](https://github.com/3m1n3nc3)
+- [All Contributors](../../contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
